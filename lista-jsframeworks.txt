@@ -31,3 +31,4 @@ LiquidLava - Transparent MVC framework for building user interfaces.
 feathers - A minimalist real-time JavaScript framework for tomorrows apps.
 Keo - Functional stateless React components with Shadow DOM support.
 atvjs - Blazing fast Apple TV application development using pure JavaScript.
+angular.io - One framework - Mobile & desktop.
